@@ -6,9 +6,7 @@
         int idli=8;
         int dosha=6;
 
-        public PriceList() {
 
-        }
 
         public int getItemPrice(String item) {
             switch (item) {
